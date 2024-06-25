@@ -1,7 +1,6 @@
 # ATM Machine
 
-![GitHub last commit](https://img.shields.io/github/last-commit/rajyash1904/ATM-Machine.svg)![GitHub stars](https://img.shields.io/github/stars/rajyash1904/ATM-Machine.svg)
-![GitHub forks](https://img.shields.io/github/forks/rajyash1904/ATM-Machine.svg)![GitHub issues](https://img.shields.io/github/issues/rajyash1904/ATM-Machine.svg)
+
 
 ## A functional ATM project written in Java
 
@@ -35,20 +34,11 @@ To run the project:
 https://github.com/maheshbabu0143/ATM-Machine/assets/114313844/c55b6501-bb51-4f3d-a85a-9aa2a1da8c3c
 
 ---
+
+
+
 # For Developers
 
-## Contribution Guidelines
-
-### Working on Issues
-
-If you see an issue that has not been raised, create an issue first, and discuss the changes you want to make with the project's lead developers
-
-### Writing Your First Pull Request
-
-First you'll want to fork ATM-Machine on Github
-
-Then create a branch for the issue you want to work on
-
-When finished, push from your branch, then use the "Compare and Pull request" button on Github to create a pull request
-
-Make sure to reference the issue your pull request addresses
+### Contributing 
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
+If you find any issue just put it in the repository issue section, thank you.
