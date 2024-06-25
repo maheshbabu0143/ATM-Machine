@@ -30,9 +30,9 @@ To run the project:
 
 ---
 ## Visual
-After running the command in #7, you should see this interface:
 
-![ATM interface](https://user-images.githubusercontent.com/77065772/218245894-caabfd9b-3fa4-4833-81ba-07a2eadaf648.PNG)
+
+https://github.com/maheshbabu0143/ATM-Machine/assets/114313844/c55b6501-bb51-4f3d-a85a-9aa2a1da8c3c
 
 ---
 # For Developers
